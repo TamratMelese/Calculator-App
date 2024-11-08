@@ -35,11 +35,11 @@ Users should be able to:
 
 ![Desktop view three](./images/screenshot_3.png)
 
-![Mobile view one](./images/screenshot_mob1.png)
+![Mobile view one](./images/Screenshot_mob1.png)
 
-![Mobile view two](./images/screenshot_mob2.png)
+![Mobile view two](./images//Screenshot_mob2.png)
 
-![Mobile view three](./images/screenshot_mob3.png)
+![Mobile view three](./images/Screenshot_mob3.png)
 
 ### Links
 
