@@ -65,11 +65,11 @@ I want to continue to areas like JS(NATIVE).
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/) - This helped me for finding JS methods.
+- [(https://www.w3schools.com/)] - This helped me for finding JS methods.
 
 ## Author
 
-- Website - [Add your name here](https://tamesociallink-4.netlify.app/)
+- Website - [Tamrat Melese](https://tamesociallink-4.netlify.app/)
 - Frontend Mentor - [@tamratmelese](https://www.frontendmentor.io/profile/tamratmelese)
 
 ## Acknowledgments
